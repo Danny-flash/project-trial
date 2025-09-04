@@ -129,13 +129,7 @@ export const Moderators = () => {
                           </div>
                           <div className="lg:min-w-[120px] lg:flex lg:items-center lg:justify-center">
                             <span
-                              className={`${
-                                member.data3 === "High"
-                                  ? "text-green-600"
-                                  : member.data3 === "Medium"
-                                  ? "text-yellow-600"
-                                  : "text-red-600"
-                              } text-xs font-[600]`}
+                              className={`text-[#454545] text-xs font-[600]`}
                             >
                               {member.data3}
                             </span>
