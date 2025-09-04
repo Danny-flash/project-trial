@@ -1,0 +1,42 @@
+export const DashboardIcon = () => (
+  <svg
+    width="16"
+    height="16"
+    viewBox="0 0 16 16"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M3.33333 6.66667H4.66667C6 6.66667 6.66667 6 6.66667 4.66667V3.33334C6.66667 2 6 1.33334 4.66667 1.33334H3.33333C2 1.33334 1.33333 2 1.33333 3.33334V4.66667C1.33333 6 2 6.66667 3.33333 6.66667Z"
+      stroke="#454545"
+      strokeWidth="1.5"
+      strokeMiterlimit="10"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <path
+      d="M11.3333 6.66667H12.6667C14 6.66667 14.6667 6 14.6667 4.66667V3.33334C14.6667 2 14 1.33334 12.6667 1.33334H11.3333C10 1.33334 9.33333 2 9.33333 3.33334V4.66667C9.33333 6 10 6.66667 11.3333 6.66667Z"
+      stroke="#454545"
+      strokeWidth="1.5"
+      strokeMiterlimit="10"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <path
+      d="M11.3333 14.6667H12.6667C14 14.6667 14.6667 14 14.6667 12.6667V11.3333C14.6667 10 14 9.33334 12.6667 9.33334H11.3333C10 9.33334 9.33333 10 9.33333 11.3333V12.6667C9.33333 14 10 14.6667 11.3333 14.6667Z"
+      stroke="#454545"
+      strokeWidth="1.5"
+      strokeMiterlimit="10"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <path
+      d="M3.33333 14.6667H4.66667C6 14.6667 6.66667 14 6.66667 12.6667V11.3333C6.66667 10 6 9.33334 4.66667 9.33334H3.33333C2 9.33334 1.33333 10 1.33333 11.3333V12.6667C1.33333 14 2 14.6667 3.33333 14.6667Z"
+      stroke="#454545"
+      strokeWidth="1.5"
+      strokeMiterlimit="10"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+  </svg>
+);
