@@ -71,7 +71,7 @@ export const moderators: Member[] = [
     data2: 1845,
     data3: "Medium",
   },
-  {
+  /* {
     id: 6,
     name: "Aisha Thompson",
     username: "@aisha_t",
@@ -82,5 +82,5 @@ export const moderators: Member[] = [
     data1: 25,
     data2: 2045,
     data3: "Medium",
-  },
+  }, */
 ];
